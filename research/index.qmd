@@ -1,0 +1,32 @@
+---
+title: "Research"
+
+---
+
+## Peer-reviewed papers
+
+Heft, A., **Buehling, K.**, Zhang, X., Schindler, D., & Milzner, M. (2024). Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention. Journal of Information Technology & Politics, 0(0), 1–17. <https://doi.org/10.1080/19331681.2023.2250779>
+
+**Buehling, K. (2024)**. Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. *Communication Methods and Measures*, 1-23. <https://doi.org/10.1080/19312458.2023.2183188>
+
+**Buehling, K.**, & Heft, A. (2023). Pandemic Protesters on Telegram: How Platform Affordances and Information Ecosystems Shape Digital Counterpublics. Social Media + Society, 9(3), 20563051231199430. <https://doi.org/10.1177/20563051231199430>
+
+Jost, P., Heft, A., **Buehling, K.**, Zehring, M., Schulze, H., Bitzmann, H., & Domahidi, E. (2023). Mapping a Dark Space: Challenges in Sampling and Classifying Non- Institutionalized Actors on Telegram. M&K Medien & Kommunikationswissenschaft, 71(3–4), 212–229. <https://doi.org/10.5771/1615-634X-2023-3-4-212>
+
+Heft, A., & **Buehling, K.** (2022). Measuring the diffusion of conspiracy theories in digital information ecologies. *Convergence*, 13548565221091808. <https://doi.org/10.1177/13548565221091809>
+
+Kindt, A.-M., Geissler, M., & **Buehling, K.** (2022). Be my (little) partner⁈—Universities’ role in regional innovation systems when large firms are rare. *Journal of Regional Science*, Online First. <https://doi.org/10.1111/jors.12596>
+
+**Buehling, K.**, Geissler, M., & Strecker, D. (2022). Free access to scientific literature and its influence on the publishing activity in developing countries: The effect of Sci-Hub in the field of mathematics. *Journal of the Association for Information Science and Technology*, Online First. <https://doi.org/10.1002/asi.24636>
+
+**Buehling, K.**, & Geissler, M. (2022). PhDs with Industry Partners–Assessing Collaboration and Topic Distribution Using a Text Mining Methodology. In *University-Industry Knowledge Interactions* (pp. 9-24). Springer, Cham. <https://doi.org/10.1007/978-3-030-84669-5_2>
+
+Bueckle, A., **Buehling, K.**, Shih, P. C., & Börner, K. (2022). Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework. *Frontiers in Virtual Reality*, *2*. <https://www.frontiersin.org/article/10.3389/frvir.2021.727344>
+
+**Buehling, K.** (2021). Changing research topic trends as an effect of publication rankings – The case of German economists and the Handelsblatt Ranking. *Journal of Informetrics*, *15*(3), 101199. <https://doi.org/10.1016/j.joi.2021.101199>
+
+Bueckle, A., **Buehling, K.**, Shih, P. C., & Börner, K. (2021). 3D virtual reality vs. 2D desktop registration user interface comparison. *PLOS ONE*, *16*(10), e0258103. <https://doi.org/10.1371/journal.pone.0258103>
+
+## Working papers
+
+Schindler, D. J., Jha, S., Zhang, X., **Buehling, K.**, Heft, A., & Barahona, M. (2024). LGDE: Local Graph-based Dictionary Expansion. *arXiv preprint [arXiv:2405.07764](https://arxiv.org/abs/2405.07764)*[.](https://arxiv.org/abs/2405.07764)

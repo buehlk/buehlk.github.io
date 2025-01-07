@@ -1,0 +1,35 @@
+---
+title: "Dr. Kilian Buehling"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/buehl_k
+    - icon: github
+      text: Github
+      href: https://github.com/buehlk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://de.linkedin.com/in/kilian-buehling-7158498b
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=7e2-DKMAAAAJ&hl=en
+---
+
+# About me
+
+I am a computational social scientist trained in Economics and based in Berlin, Germany.
+
+Most of my research is driven by my pursuit to explore how information and knowledge travel through online and offline environments, and how exactly the design of such environments shapes information flows.
+
+My research interests were sparked as a PhD researcher at the Research Group for Knowledge and Technology Transfer at Technische Universität Dresden. The research I conducted under the supervision of [Dr. Matthias Geissler](https://scholar.google.com/citations?hl=en&user=JFkcqJgAAAAJ&view_op=list_works&sortby=pubdate) was concerned with the question of how and when academic knowledge is diffused to private industry or academic collaborators, both domestic and international. My dissertation was based on my research papers on how [information accessibility improves research outputs in emerging economies](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24636), how [researcher rankings (dis-)incentivize knowledge production](https://doi.org/10.1016/j.joi.2021.101199), and how university-industry collaborations affect the involved parties ([academic scholars](https://link.springer.com/chapter/10.1007/978-3-030-84669-5_2) and [firms](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12596)).
+
+Given the importance and abundance of digital political communication, I then turned to the question of how social media platforms shape the communication behavior and information flows of explicitly political actors, influencers, and regular users. At my Postdoc position at the [Weizenbaum Institute for the Networked Society - The German Internet Institute](https://www.weizenbaum-institut.de/en/portrait/p/kilian-buehling-msc/#page=1&tags=forschung&sort=date) with [Prof. Dr. Annett Heft](https://www.weizenbaum-institut.de/portrait/p/annett-heft/#page=1&tags=forschung&sort=date) and [Prof. Dr. Barbara Pfetsch](https://www.weizenbaum-institut.de/portrait/p/barbara-pfetsch/#page=1&tags=forschung&sort=date) I focus on the communication and mobilization of anti-Democratic actors and disinformation diffusion. My research is driven by the question of how changes in the general **information ecosystem**, consisting of a diverse set of *platforms* - ranging from the fringes, such as Telegram and 4chan, to more popular ones, such as Facebook and X - their *architectures and algorithms*, and *user communities,* impact how harmful content is spread and anti-Democratic movements are mobilized. Feel free to visit the publications tab of this website to read my most recent research papers.
+
+Only by understanding how harmful information is spread through digital communication environments can we design them in a way that benefits a resilient, democratic society.
+
+## Experience
+
+During my research career, I had the chance to design, lead, and successfully complete various projects and work in different interdisciplinary teams. Almost all projects begin with collecting initially unstructured data, primarily user-generated data from online sources. To answer my research questions, I draw from a wide methodological range - from econometrics and time-series analysis to machine learning, NLP, social network analysis, and qualitative analysis.

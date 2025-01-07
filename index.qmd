@@ -1,0 +1,33 @@
+---
+title: "Dr. Kilian Buehling"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/buehl_k
+    - icon: github
+      text: Github
+      href: https://github.com/buehlk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://de.linkedin.com/in/kilian-buehling-7158498b
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=7e2-DKMAAAAJ&hl=en
+    - icon: envelope
+      aria-label: email
+      href: "mailto:kilian [dot] buehling [at] fu-berlin [dot] de"
+---
+
+Hello!
+
+I am a computational social scientist trained in Economics and based in Berlin, Germany.
+
+Most of my research is driven by my pursuit to explore how information and knowledge travel through online and offline environments, and how exactly the design of such environments shapes information flows.
+
+I usually start from unstructured, multi-modal data. To answer these questions and transform these data into actionable insights, I draw from a variety of methods, which range from econometrics and time-series analysis to machine learning, NLP, social network analysis, and qualitative analysis.
+
+Please feel free to get in touch!
+
