@@ -34,32 +34,6 @@ I usually start from unstructured, multi-modal data. To answer my questions and 
 
 \
 \
-
-![](newestpapers.gif){fig-align="center" width="300"}
-
-[Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention](https://www.tandfonline.com/doi/abs/10.1080/19331681.2023.2250779)
-
-```         
-Annett Heft, Kilian Buehling, Xixuan Zhang, Dominik Schindler, Miriam Milzner
-
-2024/7/2
-
-Journal of Information Technology & Politics
-```
-
-![](Star01.gif){fig-align="center" width="20" height="12"}
-
-[Message deletion on Telegram: Affected data types and implications for computational analysis](https://www.tandfonline.com/doi/abs/10.1080/19312458.2023.2183188)
-
-```         
-Kilian Buehling
-
-2024/1/2
-
-Communication Methods and Measures
-```
-
-\
 \
 
 Please feel free to get in touch!
