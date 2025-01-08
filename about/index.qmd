@@ -2,10 +2,10 @@
 title: "Dr. Kilian Buehling"
 about:
   template: trestles
-  image: profile.jpg
+  image: my_image.jpg
   links:
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://x.com/buehl_k
     - icon: github
       text: Github
