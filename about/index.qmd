@@ -2,7 +2,7 @@
 title: "Dr. Kilian Buehling"
 about:
   template: trestles
-  image: my_image.jpg
+  image: /img/my_image.jpg
   links:
     - icon: twitter
       text: Twitter
