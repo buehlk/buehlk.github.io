@@ -1,13 +1,12 @@
 ---
 title: "Research"
-
 ---
 
 ## Peer-reviewed papers
 
 Heft, A., **Buehling, K.**, Zhang, X., Schindler, D., & Milzner, M. (2024). Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention. Journal of Information Technology & Politics, 0(0), 1–17. <https://doi.org/10.1080/19331681.2023.2250779>
 
-**Buehling, K. (2024)**. Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. *Communication Methods and Measures*, 1-23. <https://doi.org/10.1080/19312458.2023.2183188>
+**Buehling, K.** (2024). Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. *Communication Methods and Measures*, 1-23. <https://doi.org/10.1080/19312458.2023.2183188>
 
 **Buehling, K.**, & Heft, A. (2023). Pandemic Protesters on Telegram: How Platform Affordances and Information Ecosystems Shape Digital Counterpublics. Social Media + Society, 9(3), 20563051231199430. <https://doi.org/10.1177/20563051231199430>
 
