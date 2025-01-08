@@ -1,5 +1,8 @@
 ---
 title: "Dr. Kilian Buehling"
+format:
+  html: 
+      max-width: 600px
 about:
   template: jolla
   image: img/my_image.jpg
