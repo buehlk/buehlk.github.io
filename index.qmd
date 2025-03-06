@@ -19,6 +19,7 @@ about:
     - icon: envelope
       aria-label: email
       href: "mailto:kilian [dot] buehling [at] fu-berlin [dot] de"
+google-analytics: "G-PK42F8WD7K"
 ---
 
 Hello!
