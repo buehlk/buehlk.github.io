@@ -6,19 +6,21 @@ title: "Research"
 
 Schulze H., **Buehling, K**., Zehring, M. (forthcoming). The Telegram COVID-19 Protest Dataset 2020-2022. *Computational Communication Research.*
 
-Schindler, J., Jha, S., Zhang, X., **Buehling, K.**, Heft, A., & Barahona, M. (forthcoming). LGDE: Local Graph-based Dictionary Expansion. *Computational Linguistics.*
+Pasitselska, O., **Buehling, K.**, & Gagrčin, E. (2025). Chat groups as local civic infrastructure: A case study of “Solidary neighborhood help” Telegram groups during the COVID-19 pandemic in Germany. *New Media & Society*, *0*(0). https://doi.org/10.1177/14614448251349426
+
+Schindler, J., Jha, S., Zhang, X., **Buehling, K.**, Heft, A., & Barahona, M. (2025). LGDE: Local Graph-based Dictionary Expansion. *Computational Linguistics*, 1–32. https://doi.org/10.1162/coli_a_00562
 
 **Buehling, K.**, Zhang, X., & Heft, A. (2025). Veiled conspiracism: Particularities and convergence in the styles and functions of conspiracy-related communication across digital platforms. *New Media & Society*, *0*(0). <https://doi.org/10.1177/14614448251315756>
 
-Heft, A., **Buehling, K.**, Zhang, X., Schindler, D., & Milzner, M. (2024). Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention. Journal of Information Technology & Politics, *21*(3), 323-339. <https://doi.org/10.1080/19331681.2023.2250779>
+Heft, A., **Buehling, K.**, Zhang, X., Schindler, D., & Milzner, M. (2024). Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention. *Journal of Information Technology & Politics*, *21*(3), 323-339. <https://doi.org/10.1080/19331681.2023.2250779>
 
 **Buehling, K.** (2024). Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. *Communication Methods and Measures*, *18*(1), 92-114. <https://doi.org/10.1080/19312458.2023.2183188>
 
-**Buehling, K.**, & Heft, A. (2023). Pandemic Protesters on Telegram: How Platform Affordances and Information Ecosystems Shape Digital Counterpublics. Social Media + Society, 9(3), 20563051231199430. <https://doi.org/10.1177/20563051231199430>
+**Buehling, K.**, & Heft, A. (2023). Pandemic Protesters on Telegram: How Platform Affordances and Information Ecosystems Shape Digital Counterpublics. *Social Media + Society*, 9(3), 20563051231199430. <https://doi.org/10.1177/20563051231199430>
 
-Jost, P., Heft, A., **Buehling, K.**, Zehring, M., Schulze, H., Bitzmann, H., & Domahidi, E. (2023). Mapping a Dark Space: Challenges in Sampling and Classifying Non- Institutionalized Actors on Telegram. M&K Medien & Kommunikationswissenschaft, 71(3–4), 212–229. <https://doi.org/10.5771/1615-634X-2023-3-4-212>
+Jost, P., Heft, A., **Buehling, K.**, Zehring, M., Schulze, H., Bitzmann, H., & Domahidi, E. (2023). Mapping a Dark Space: Challenges in Sampling and Classifying Non- Institutionalized Actors on Telegram. *M&K Medien & Kommunikationswissenschaft*, 71(3–4), 212–229. <https://doi.org/10.5771/1615-634X-2023-3-4-212>
 
-Heft, A., & **Buehling, K.** (2022). Measuring the diffusion of conspiracy theories in digital information ecologies. *Convergence*, 13548565221091808. <https://doi.org/10.1177/13548565221091809>
+Heft, A., & **Buehling, K.** (2022). Measuring the diffusion of conspiracy theories in digital information ecologies. *Convergence: The International Journal of Research into New Media Technologies*, 28(4), 940–961. https://doi.org/10.1177/13548565221091809
 
 Kindt, A.-M., Geissler, M., & **Buehling, K.** (2022). Be my (little) partner⁈—Universities’ role in regional innovation systems when large firms are rare. *Journal of Regional Science*, *62*(5), 1274-1295. <https://doi.org/10.1111/jors.12596>
 
