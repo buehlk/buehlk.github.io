@@ -4,6 +4,8 @@ title: "Research"
 
 ## Peer-reviewed papers
 
+**Buehling, K.**, Becker, J., Zhang, X., Heft, A. (forthcoming). Rechte Verschwörungstheorien in hyperparteiischen Medien – Was hätte ein Verbot des Compact-Magazins für das anti-demokratische Online-Ökosystem bedeutet? In *Wissen schafft Demokratie. Schwerpunkt Demokratiegefährdung online*, Band 18. Jena
+
 Schulze H., **Buehling, K**., Zehring, M. (forthcoming). The Telegram COVID-19 Protest Dataset 2020-2022. *Computational Communication Research.*
 
 Pasitselska, O., **Buehling, K.**, & Gagrčin, E. (2025). Chat groups as local civic infrastructure: A case study of “Solidary neighborhood help” Telegram groups during the COVID-19 pandemic in Germany. *New Media & Society*, *0*(0). https://doi.org/10.1177/14614448251349426
@@ -36,4 +38,4 @@ Bueckle, A., **Buehling, K.**, Shih, P. C., & Börner, K. (2021). 3D virtual rea
 
 ## Working papers
 
-\-
+Fan, Y., **Buehling, K.**, & Stocker, V. (2025). *Beyond Citations: Measuring Idea-level Knowledge Diffusion from Research to Journalism and Policy-making* (Version 1). arXiv. <https://doi.org/10.48550/ARXIV.2511.03378>

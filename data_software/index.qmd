@@ -4,7 +4,7 @@ title: "Datasets/Software"
 
 ## Datasets
 
-The Telegram COVID-19 Protest Dataset 2020-2022 *(under review, publication tbd)*
+Schulze, H., Buehling, K., & Zehring, M. (2025). *Telegram COVID-19 Protest Dataset 2020–2022 (TGCPD)*. <https://doi.org/10.4232/1.1452>
 
 ## Software
 
