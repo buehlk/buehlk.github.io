@@ -4,9 +4,6 @@ about:
   template: jolla
   image: /img/my_image.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/buehl_k
     - icon: github
       text: Github
       href: https://github.com/buehlk
@@ -36,6 +33,14 @@ I usually start from unstructured, multi-modal data. To answer my questions and 
 ![](img/newestpapers.gif){fig-align="center" width="300"}
 
 \
+
+![](img/Star01.gif){fig-align="center" width="20" height="12"}
+
+[The Telegram COVID-19 Protest Dataset 2020-2022](https://doi.org/10.5117/CCR2025.1.9.SCHU)
+
+Heidi Schulze, **Kilian Buehling**, Maximilian Zehring\
+2025\
+Computational Communication Research
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 
@@ -69,14 +74,7 @@ Computational Linguistics
 2025\
 New Media & Society\
 \
-
-![](img/Star01.gif){fig-align="center" width="20" height="12"}
-
-[Challenges of and approaches to data collection across platforms and time: Conspiracy-related digital traces as examples of political contention](https://www.tandfonline.com/doi/abs/10.1080/19331681.2023.2250779)
-
-Annett Heft, **Kilian Buehling**, Xixuan Zhang, Juni Schindler, Miriam Milzner\
-2024\
-Journal of Information Technology & Politics\
+\
 \
 
 \
