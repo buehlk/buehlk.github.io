@@ -36,6 +36,14 @@ I usually start from unstructured, multi-modal data. To answer my questions and 
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 
+[Rechte Verschwörungstheorien in hyperparteiischen Medien – Was hätte ein Verbot des Compact-Magazins für das anti-demokratische Online-Ökosystem bedeutet?](https://doi.org/10.19222/202618/06)
+
+Kilian Buehling, Joana D. Becker, Xixuan Zhang, Annett Heft\
+2025\
+Wissen schafft Demokratie
+
+![](img/Star01.gif){fig-align="center" width="20" height="12"}
+
 [The Telegram COVID-19 Protest Dataset 2020-2022](https://doi.org/10.5117/CCR2025.1.9.SCHU)
 
 Heidi Schulze, **Kilian Buehling**, Maximilian Zehring\
@@ -57,14 +65,6 @@ arXiv pre-print
 Olga Pasitselska, **Kilian Buehling**, Emilija Gagrčin\
 2025\
 New Media & Society
-
-![](img/Star01.gif){fig-align="center" width="20" height="12"}
-
-[LGDE: Local Graph-based Dictionary Expansion](https://doi.org/10.1162/coli_a_00562)
-
-Juni Schindler, Sneha Jha, Xixuan Zhang, **Kilian Buehling**, Annett Heft, Mauricio Barahona\
-2025\
-Computational Linguistics
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 

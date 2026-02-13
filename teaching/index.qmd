@@ -4,7 +4,11 @@ title: "Teaching"
 
 ## Teaching
 
-### Weizenbaum Institute
+### FU Berlin / Weizenbaum Institute
+
+2025 - Information Disorders (Seminar)
+
+2025 - Introduction to Actor Sampling and Data Collection on Telegram (Workshop)
 
 2024 - Anti-democratic mobilization on messenger apps – working with Telegram data (University of Zurich, guest lecture)
 
