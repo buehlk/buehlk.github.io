@@ -4,7 +4,7 @@ title: "Research"
 
 ## Peer-reviewed papers
 
-**Buehling, K.**, Becker, J., Zhang, X., Heft, A. (2025). Rechte Verschwörungstheorien in hyperparteiischen Medien – Was hätte ein Verbot des Compact-Magazins für das anti-demokratische Online-Ökosystem bedeutet? In *Wissen schafft Demokratie. Schwerpunkt Demokratiegefährdung online*, *18,* 82-99. Jena. [https://doi.org/ 10.19222/202618/06](https://doi.org/ 10.19222/202618/06)
+**Buehling, K.**, Becker, J., Zhang, X., Heft, A. (2025). Rechte Verschwörungstheorien in hyperparteiischen Medien – Was hätte ein Verbot des Compact-Magazins für das anti-demokratische Online-Ökosystem bedeutet? In *Wissen schafft Demokratie. Schwerpunkt Demokratiegefährdung online*, *18,* 82-99. Jena. [https://doi.org/ 10.19222/202618/06](https://doi.org/%2010.19222/202618/06)
 
 Schulze H., **Buehling, K**., Zehring, M. (2025). The Telegram COVID-19 Protest Dataset 2020-2022. *Computational Communication Research, 7(1)*, 1-19. <https://doi.org/10.5117/CCR2025.1.9.SCHU>
 
