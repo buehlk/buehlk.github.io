@@ -15,13 +15,13 @@ about:
       href: https://scholar.google.com/citations?user=7e2-DKMAAAAJ&hl=en
     - icon: envelope
       aria-label: email
-      href: "mailto:kilian [dot] buehling [at] fu-berlin [dot] de"
+      href: "mailto:kilian [dot] buehling [at] uni-tuebingen [dot] de"
 google-analytics: "G-PK42F8WD7K"
 ---
 
 Hello!
 
-I am a computational social scientist trained in Economics and based in Berlin, Germany.
+I am a computational political communication researcher trained in Economics and based in Berlin, Germany.
 
 Most of my research is driven by my pursuit to explore how information and knowledge travel through online and offline environments, and how exactly the design of such environments shapes information flows.
 
@@ -33,6 +33,14 @@ I usually start from unstructured, multi-modal data. To answer my questions and 
 ![](img/newestpapers.gif){fig-align="center" width="300"}
 
 \
+
+![](img/Star01.gif){fig-align="center" width="20" height="12"}
+
+[Veiled conspiracism: Particularities and convergence in the styles and functions of conspiracy-related communication across digital platforms](https://doi.org/10.1177/14614448251315756)
+
+**Kilian Buehling**, Xixuan Zhang, Annett Heft\
+2026\
+New Media & Society
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 
@@ -64,17 +72,7 @@ arXiv pre-print
 
 Olga Pasitselska, **Kilian Buehling**, Emilija Gagrčin\
 2025\
-New Media & Society
-
-![](img/Star01.gif){fig-align="center" width="20" height="12"}
-
-[Veiled conspiracism: Particularities and convergence in the styles and functions of conspiracy-related communication across digital platforms](https://doi.org/10.1177/14614448251315756)
-
-**Kilian Buehling**, Xixuan Zhang, Annett Heft\
-2025\
 New Media & Society\
-\
-\
 \
 
 \
