@@ -4,6 +4,10 @@ title: "Teaching"
 
 ## Teaching
 
+### Eberhard Karls Universität Tübingen
+
+2026 - Digital Trace Data (Guest lecture in seminar *Understanding news consumers in hybrid media systems: Methodological approaches from audience studies*)
+
 ### FU Berlin / Weizenbaum Institute
 
 2025 - Information Disorders (Seminar)
