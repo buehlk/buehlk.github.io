@@ -36,6 +36,14 @@ I usually start from unstructured, multi-modal data. To answer my questions and 
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 
+[AVERA: A Community-Curated Account List for Research on Digital Far-Right Activities, Radicalization, and Extremist Narratives](https://doi.org/10.5281/zenodo.20444931)
+
+2026
+
+Brüggemann, S., Klinker, F., Richter, C., Internetmonitoring, M., Stürenburg, M., **Buehling, K.** et al.
+
+![](img/Star01.gif){fig-align="center" width="20" height="12"}
+
 [Veiled conspiracism: Particularities and convergence in the styles and functions of conspiracy-related communication across digital platforms](https://doi.org/10.1177/14614448251315756)
 
 **Kilian Buehling**, Xixuan Zhang, Annett Heft\
@@ -57,14 +65,6 @@ Wissen schafft Demokratie
 Heidi Schulze, **Kilian Buehling**, Maximilian Zehring\
 2025\
 Computational Communication Research
-
-![](img/Star01.gif){fig-align="center" width="20" height="12"}
-
-[Beyond Citations: Measuring Idea-level Knowledge Diffusion from Research to Journalism and Policy-making](https://doi.org/10.48550/ARXIV.2511.03378)
-
-Yangliu Fan, **Kilian Buehling**, Volker Stocker\
-2025\
-arXiv pre-print
 
 ![](img/Star01.gif){fig-align="center" width="20" height="12"}
 

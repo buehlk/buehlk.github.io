@@ -2,15 +2,11 @@
 title: "Teaching"
 ---
 
-## Teaching
+## Seminars
 
 ### Masaryk University, Department of Media Studies and Journalism, Brno (CZ)
 
 2026 - Content creator networks – Social network analysis at the periphery of journalism (Seminar)
-
-### Eberhard Karls Universität Tübingen
-
-2026 - Digital Trace Data (Guest lecture in seminar *Understanding news consumers in hybrid media systems: Methodological approaches from audience studies*)
 
 ### FU Berlin / Weizenbaum Institute
 
@@ -18,13 +14,7 @@ title: "Teaching"
 
 2025 - Introduction to Actor Sampling and Data Collection on Telegram (Workshop)
 
-2024 - Anti-democratic mobilization on messenger apps – working with Telegram data (University of Zurich, guest lecture)
-
-2024 - Digital trace data collection (University of Tübingen, guest lecture)
-
-2024 - Telegram and its affordances for anti-democratic mobilization (University of Groningen, guest lecture)
-
-2023 - Introduction to digital trace data (Workshop)
+2023 - Introduction to digital trace data (Workshop at DGPuK Methoden 2023)
 
 ### Technische Universität Dresden
 
@@ -33,3 +23,13 @@ title: "Teaching"
 2018 - Scientific working \[Wissenschaftliches und praktisches Arbeiten\]
 
 2017 - Applied Econometrics (Excercise) \[Quantitative Verfahren – Ökonometrische Modelle und Ihre Anwendungen\]
+
+### Guest lectures and seminars
+
+2026 - Digital Trace Data (Guest lecture in seminar *Understanding news consumers in hybrid media systems: Methodological approaches from audience studies*, by Dr. Phoebe Maares, University of Tübingen)
+
+2024 - Anti-democratic mobilization on messenger apps – working with Telegram data (Guest lecture with Prof. Dr. Jing Zeng, University of Zurich)
+
+2024 - Digital trace data collection (Guest lecture with Prof. Dr. Tanja Thomas, University of Tübingen)
+
+2024 - Telegram and its affordances for anti-democratic mobilization (Guest lecture with Prof. Dr. Olga Pasitselska, University of Groningen)

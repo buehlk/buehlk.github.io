@@ -4,7 +4,17 @@ title: "Datasets/Software"
 
 ## Datasets
 
-Schulze, H., Buehling, K., & Zehring, M. (2025). *Telegram COVID-19 Protest Dataset 2020–2022 (TGCPD)*. <https://doi.org/10.4232/1.1452>
+Brüggemann, S., Klinker, F., Richter, C., Internetmonitoring, M., Stürenburg, M., Bühling, K. et al. (2026). *AVERA: A Community-Curated Account List for Research on Digital Far-Right Activities, Radicalization, and Extremist Narratives.*
+
+-   Data paper:<https://doi.org/10.5281/zenodo.20444931>
+
+-   Dataset access: <https://datenportal-rechtsextremismus.de/en/rex-forschungsdaten/digitale-rex-daten/avera/>
+
+Schulze, H., Buehling, K., & Zehring, M. (2025). *Telegram COVID-19 Protest Dataset 2020–2022 (TGCPD)*.
+
+-   Dataset paper: [https://doi.org/10.5117/CCR2025.1.9.SCHU](http://127.0.0.1:19236/#0 "https://doi.org/10.5117/CCR2025.1.9.SCHU")
+
+-   Dataset access: <https://doi.org/10.4232/1.1452>
 
 ## Software
 
